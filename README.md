@@ -1,2 +1,2 @@
-# Webaite
+# Website
 Website for BIMS' Kitchen
